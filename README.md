@@ -1,7 +1,8 @@
 # Marcomms-START_HERE
-A place for everyone, to start contributing to the WP Marketing team, Please visit the [wiki](https://github.com/wpmarketingteam/Marcomms-START_HERE/wiki) for more information. 
+A place for everyone, to start contributing to the Marketing team at WordPress.org.
+Please visit the [wiki](https://github.com/wpmarketingteam/Marcomms-START_HERE/wiki) for more information. 
 
-Come hang out with us in the #marketing channel on [Slack](http://wordpress.slack.com/messages/marketing/) and (or) join us at our next Weekly Marketing Chat on every Wednesdays.
+Come hang out with us in the #marketing channel on [Slack](http://wordpress.slack.com/messages/marketing/) and (or) join us at our next Weekly Marketing Chat on Wednesdays.
 
 ## Getting Involved
 There are so many ways to contribute in the team. At a contributor event, occasionally on particular tasks or more regularly. 

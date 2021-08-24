@@ -26,3 +26,6 @@ You can check out our starter tasks to get involved. We regularly update this li
 
 ## Set up a WordPress.org account (multiple languages)
 Two of the main things you will need to contribute to WordPress is an account on the Slack account (instant messaging) used by Make WordPress and a WordPress.org identity. We have produced a help video to take you through the steps of setting up a WordPress.org profile and joining the Make WordPress Slack to make it easier to get started. It is available in a number of different languages in this [workshop on Lean WordPress](https://learn.wordpress.org/workshop/set-up-a-wordpress-org-account/).
+
+## Ongoing work on updating the Marketing Team Handbook
+This is being amalgamated and can be found in the rolling content repository. (https://github.com/wpmarketingteam/Marcomms-Rolling-tasks/issues/5#issue-977824094).
